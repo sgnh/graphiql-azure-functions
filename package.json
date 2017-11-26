@@ -1,7 +1,7 @@
 {
   "name": "graphiql-azure-functions",
   "version": "1.0.2",
-  "description": "",
+  "description": "Easy deployment of GraphiQL to Azure Functions",
   "main": "src/index.js",
   "repository": {
     "type": "git",
