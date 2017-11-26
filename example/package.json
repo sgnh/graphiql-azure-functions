@@ -1,0 +1,9 @@
+{
+  "name": "graphiql-azure-functions-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "graphiql-azure-functions": "^1.0.0"
+  }
+}
