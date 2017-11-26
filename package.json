@@ -5,7 +5,7 @@
   "main": "src/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sgnh/graphql-azure-functions.git"
+    "url": "git+https://github.com/sgnh/graphiql-azure-functions.git"
   },
   "keywords": [
     "azure",
@@ -16,7 +16,7 @@
   "author": "Steffen Hansen <steffen@grundsoe.dk>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sgnh/graphql-azure-functions/issues"
+    "url": "https://github.com/sgnh/graphiql-azure-functions/issues"
   },
-  "homepage": "https://github.com/sgnh/graphql-azure-functions#readme"
+  "homepage": "https://github.com/sgnh/graphiql-azure-functions#readme"
 }
