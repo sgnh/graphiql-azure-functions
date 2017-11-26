@@ -9,7 +9,9 @@
   },
   "keywords": [
     "azure",
-    "graphql"
+    "azure-functions",
+    "graphql",
+    "graphiql"
   ],
   "author": "Steffen Hansen <steffen@grundsoe.dk>",
   "license": "MIT",
